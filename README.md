@@ -13,7 +13,7 @@ Steps for Execution:
 
 1. Extrcated the data and checked the information adn the description for the data and if there are any null values in it.
 2. Checked the correlation for the data.
-3. As the data has some negative and positive values, so the we can conlude the data has alsready been scaled.
+3. As the data has some negative and positive values, so the we can conlude the data has already been scaled and its mentioned in the descriptionas well.
 4. Since its a huge dataset we can't do all our computations on it so taking a sample from the dataset of 25% which has been picked randomly.
 5. Now we can perform the Exploratory Data Analysis on this sample.
 6. Checked the number of values are for the proper transaction and how many are for the fraud ones.
